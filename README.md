@@ -29,7 +29,7 @@ it, simply add the following line to your Podfile:
 ```swift
 use_frameworks!
 
-pod "SearchTextField"
+pod 'SearchTextField'
 ```
 
 ### Manual installation
